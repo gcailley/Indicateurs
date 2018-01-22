@@ -3,13 +3,13 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>13cb47d6-b5e1-4fe9-8521-a6672fbaa720</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonApplication2.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>PagesJaunesIndicateurs.py</StartupFile>
+    <SearchPath>utils;modele;service;builder</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PythonApplication2</Name>
+    <Name>PagesJaunesIndicateurs</Name>
     <RootNamespace>PythonApplication2</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -21,7 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="PythonApplication2.py" />
+    <Compile Include="PagesJaunesIndicateurs.py" />
+  </ItemGroup>
+  <ItemGroup>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

@@ -1,0 +1,3154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tasks type="array">
+  <task>
+    <id type="integer">13881549</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438622</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>Gestion des pro blackliste et associe a des rubriques non eligible</name>
+    <recurring-schedule nil="true"/>
+    <description>actuellement nous ne traitons les avis des partenaires associees a des rubriques non eligible ou blackliste. ne le faudrait-il pas ?</description>
+    <position type="integer">3</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-08-01T15:15:14+02:00</created-at>
+    <updated-at type="dateTime">2017-08-01T15:15:14+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13859201</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438654</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>RAPPORT_SYNDICATION_SFTP: mettre a dispo le rapport de syndication sur le depot SFTP</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">2</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-31T11:09:49+02:00</created-at>
+    <updated-at type="dateTime">2017-07-31T11:09:49+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>CONTRIBUTIF</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13769035</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438660</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CF_PASSAGE_BUC_PPROD : passage au BUC de preprod.</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">4</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-24T11:56:54+02:00</created-at>
+    <updated-at type="dateTime">2017-07-24T16:28:00+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13766411</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438660</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>PASSAGE_MONGO_34 : Validation de la migration mongo 3.4</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">5</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-24T08:27:57+02:00</created-at>
+    <updated-at type="dateTime">2017-07-24T16:27:44+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">13.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13762091</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438654</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NOTIF_DDR_STAT - Stat d ouverture de l email quand un DDR est depose sur son avis</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">1</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-23T17:16:02+02:00</created-at>
+    <updated-at type="dateTime">2017-07-23T17:16:35+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/worc_ressources_more/workitem?id=RESSOURCES_MORE_WORC-105</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>RESSOURCES_MORE_WORC-105</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13762077</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_OPTIMISATION_AFFICHE : optimisation affichage dans le compte a 12 favoris</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">7</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-23T17:09:29+02:00</created-at>
+    <updated-at type="dateTime">2017-07-28T11:33:12+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13614337</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NOTIF_DDR_STAT - Prevenir un utilisateur quand un DDR est depose sur son avis</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">6</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-11T16:49:22+02:00</created-at>
+    <updated-at type="dateTime">2017-07-28T11:33:15+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">69923</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/worc_ressources_more/workitem?id=RESSOURCES_MORE_WORC-105</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>RESSOURCES_MORE_WORC-105</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Didier Goguet</name>
+      <initials>DGO</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">13607601</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438656</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CONCILEO_NB_AVIS_ENMODERATION : permettre a concileo d avoir le nombre d avis en moderation</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">5</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-11T10:41:17+02:00</created-at>
+    <updated-at type="dateTime">2017-07-11T10:41:17+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13607433</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438670</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CONCILEO_DENOMBREMENT : permettre a concileo d avoir le denombrement tous les jours.</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">1</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-11T10:33:36+02:00</created-at>
+    <updated-at type="dateTime">2017-07-31T17:44:16+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">21.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.pagesjaunes.fr/polarion/#/project/orchestrateur_moderation_contributif/workitem?id=MODER_CONTRIB_ORCH-636</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13595481</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_LISTE-06ter - BI favori CTA (v1) - prise de rendez-vous</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;div&gt;17/03/17 : En attente du POC FD contextualisee.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;19/04/17 : Besoin stats :&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 12px;"&gt;- Taux de clics sur " prise de rendez-vous"&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</description>
+    <position type="integer">1</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-10T17:07:17+02:00</created-at>
+    <updated-at type="dateTime">2017-08-02T16:30:20+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">122380</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">13.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-4122</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISATEUR_FRONT-4122</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Gregory CAILLEY</name>
+      <initials>GCA</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">13594351</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_LISTE-06 - BI favori CTA (v1) - y aller/contacter</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">4</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-10T16:46:15+02:00</created-at>
+    <updated-at type="dateTime">2017-08-02T16:30:10+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-3795</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISATEUR_FRONT-3795</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535297</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438622</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>TEASER_AVIS - Affichage du teaser d un avis en LR</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">7</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:52:12+02:00</created-at>
+    <updated-at type="dateTime">2017-07-05T15:52:12+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535175</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438622</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>RESTIT_AVIS_UTILE_PROFIL - Restitution des avis utiles dans le profil public</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">6</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:42:17+02:00</created-at>
+    <updated-at type="dateTime">2017-07-05T15:42:17+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535157</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438622</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>RESTIT_AVIS_UTILE_CPTE - Restitution nb avis utile dans le compte</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">5</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:41:12+02:00</created-at>
+    <updated-at type="dateTime">2017-07-05T15:41:12+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535143</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438622</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>RESTI_AVIS_UTILE_FD - Restitution du nombre d avis utile en FD</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">4</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:40:48+02:00</created-at>
+    <updated-at type="dateTime">2017-07-05T15:40:48+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535135</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438624</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>AVIS_UTILE_MAIL-02 - Mailing mensuel avis utile</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">4</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:40:25+02:00</created-at>
+    <updated-at type="dateTime">2017-07-24T08:25:46+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535123</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438624</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>AVIS_UTILE_MAIL-01 - Mail premier avis utile</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">3</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:39:50+02:00</created-at>
+    <updated-at type="dateTime">2017-07-10T09:02:35+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13535107</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438624</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>AVIS_UTILE_FD - gestion des avis utiles en FD</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">2</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T15:39:23+02:00</created-at>
+    <updated-at type="dateTime">2017-07-05T15:42:44+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13531443</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>OS_INT_FRONT - Integration des avis Opinion System</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">17</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-05T11:31:37+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T14:39:51+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">3.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_fd/wiki/Specification/Recapitulatif_US?paramUSId=FD_FRONT-9382&amp;paramFieldsReq=order_01</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>FD_FRONT-9382</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13503035</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438654</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>GESTION_DOMAINE_WORKFLOW</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">3</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-07-03T10:55:12+02:00</created-at>
+    <updated-at type="dateTime">2017-07-03T10:56:01+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason>attendre OK prod/120jours</block-reason>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13451231</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_TECH_REDIRECTION_FD_CONTEXTUALISEE : si clique sur le raison social aller vers la FD contextualisee</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">9</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-28T16:36:17+02:00</created-at>
+    <updated-at type="dateTime">2017-07-28T11:33:06+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.pagesjaunes.fr/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-4111</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13448927</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>MCEBROWS-138 - Mise a jourde la page infos Cookies</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">18</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-28T14:57:25+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T13:47:56+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074562</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_pds/workitem?id=PDS_FRONT-1625</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>PDS_FRONT-1625</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13436803</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>MCEBROWS-137 - Suppression de la newsletter</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">19</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-27T17:35:06+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T13:47:45+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2074562</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_hp/workitem?id=HP_FRONT-2506</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>HP_FRONT-2506</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13436461</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438660</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ADM_SUP_AVIS_PART_V2 : finalisation de la suppression des avis d un EPJ (sans limitation)</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">3</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-27T17:18:39+02:00</created-at>
+    <updated-at type="dateTime">2017-07-24T11:56:26+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">13.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13436435</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438656</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>TECH_TOOLS_VALIDATION : Mettre a disposition un outil de validation des fichiers de syndication.</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">30</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-27T17:16:39+02:00</created-at>
+    <updated-at type="dateTime">2017-06-27T17:16:39+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13436257</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_TECH_BRANCHER_FD_CONTEXTUALISEE : dans le cadre de l affichage des favoris dans le compte</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;span class="blockInner" style="-webkit-font-smoothing: antialiased; white-space: pre-wrap; display: block; padding-left: 24px; border-left: 1px dotted rgb(187, 187, 187); margin-left: 2px; color: rgb(68, 68, 68); font-family: monospace; font-size: 13px; font-style: normal; font-weight: normal;"&gt;&lt;span class="kvov objProp" style="-webkit-font-smoothing: antialiased; display: block; padding-left: 20px; margin-left: -20px; position: relative;"&gt;&lt;span class="s" style="-webkit-font-smoothing: antialiased; color: rgb(11, 117, 0); word-wrap: break-word;"&gt;"&lt;span style="-webkit-font-smoothing: antialiased;"&gt;/fichedetaillee-professionnel/{code_etablissement}&lt;/span&gt;"&lt;/span&gt;,&lt;span style="font-size: 13px;"&gt;"&lt;/span&gt;&lt;span class="k" style="font-size: 13px; -webkit-font-smoothing: antialiased; color: rgb(0, 0, 0);"&gt;queryParams&lt;/span&gt;&lt;span style="font-size: 13px;"&gt;": &lt;/span&gt;&lt;span class="b" style="font-size: 13px; -webkit-font-smoothing: antialiased; font-weight: bold;"&gt;[&lt;/span&gt;&lt;span class="s" style="font-size: 13px; -webkit-font-smoothing: antialiased; color: rgb(11, 117, 0); word-wrap: break-word;"&gt;"&lt;span style="-webkit-font-smoothing: antialiased;"&gt;code_rubrique&lt;/span&gt;"&lt;/span&gt;&lt;span style="font-size: 13px;"&gt;,&lt;/span&gt;&lt;span class="s" style="font-size: 13px; -webkit-font-smoothing: antialiased; color: rgb(11, 117, 0); word-wrap: break-word;"&gt;"&lt;span style="-webkit-font-smoothing: antialiased;"&gt;code_localite&lt;/span&gt;"&lt;/span&gt;&lt;span style="font-size: 13px;"&gt;,&lt;/span&gt;&lt;span class="s" style="font-size: 13px; -webkit-font-smoothing: antialiased; color: rgb(11, 117, 0); word-wrap: break-word;"&gt;"&lt;span style="-webkit-font-smoothing: antialiased;"&gt;designation_ligne]&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+    <position type="integer">8</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-27T17:08:56+02:00</created-at>
+    <updated-at type="dateTime">2017-07-28T11:33:09+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">122380</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">21.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_favoris_bundle/workitem?id=FAV_BUNDLE_FRONT-116</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>FAV_BUNDLE_FRONT-116</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Gregory CAILLEY</name>
+      <initials>GCA</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">13394057</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NETTOYAGE : FF_AUTHENTIFICATION_EMAIL</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">37</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-23T16:01:02+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:46:03+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">1.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13393995</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NETTOYAGE : FF_DEBRAYAGE_SYNDICATION_CONTRIBUTION</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">36</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-23T15:59:50+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:46:06+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">1.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13393909</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NETTOYAGE : FF_TECH_SUP_NB_AVIS_USER</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">38</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-23T15:57:07+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:46:00+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">1.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13393841</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NETTOYAGE : FF_COMPTE_SUPPRIMER_PROFIL</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">213</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-23T15:51:35+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:29+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">3.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13373275</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>UPDATE_BO_GIGYA</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;span style="font-size: 12px; font-style: normal; font-weight: normal;"&gt;- Faire du polarion&lt;/span&gt;&lt;div style="font-weight: normal; font-style: normal; font-size: 12px;"&gt;- ajouter l ID_STAT&lt;/div&gt;&lt;div style="font-weight: normal; font-style: normal; font-size: 12px;"&gt;- rajouter le jour a la date de naissance&lt;/div&gt;&lt;div style="font-weight: normal; font-style: normal; font-size: 12px;"&gt;- update dans de creation compte&lt;/div&gt;&lt;div style="font-weight: normal; font-style: normal; font-size: 12px;"&gt;- jira utilisation de la date de traitement a la place de la date du jour (vtom a mettre jour)&lt;/div&gt;&lt;div style="font-weight: normal; font-style: normal; font-size: 12px;"&gt;- suppression parametre cible pour les stats et newlettres&lt;/div&gt;</description>
+    <position type="integer">12</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-22T10:05:19+02:00</created-at>
+    <updated-at type="dateTime">2017-07-23T17:23:28+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13207181</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_ZAE : Ajout HP_ZAE comme origine de creation d un favori</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">14</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-08T17:20:50+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T14:47:22+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/api_proprietes_utilisateur/workitem?id=UTIL_PROP_API-339</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTIL_PROP_API-339</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13206803</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438608</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>Suppression De la newletter RELATIA</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">1</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-08T17:03:54+02:00</created-at>
+    <updated-at type="dateTime">2017-06-08T17:17:17+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13191589</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>NETTOYAGE :  FF_FAVORIS_CORE</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">27</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-07T16:55:47+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:27+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2074554</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13108067</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ADM_SUPP_AVIS_PART2 : Workflow pagination</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">30</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-01T10:32:44+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:46:34+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">13.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>CONTRIBUTIF</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">13107789</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>PART_OPINION_SYSTEM: ajouter un nouvau partenaire OS</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">39</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-06-01T10:14:03+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:53+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12947955</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_RAISON_SOCIALE - Raison sociale du professionnel cliquable dans le BI favori</name>
+    <recurring-schedule nil="true"/>
+    <description>Besoin stats :&lt;div&gt;- Taux de clics sur la raison sociale du professionnel&lt;/div&gt;</description>
+    <position type="integer">15</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-18T16:57:02+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T14:47:27+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">122380</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-4091</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISATEUR_FRONT-4091</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">265674</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Gregory CAILLEY</name>
+      <initials>GCA</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">12946575</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438608</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>COMPTE_AUTHEN_BROWSING : ajout l origine browsing dans GIGYA</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;div&gt;Pour le context ID, les liens suivants devraient t eclaircir:&lt;/div&gt;&lt;div&gt;http://developers.gigya.com/display/GD/accounts.showScreenSet+JS (voir param  cid )&lt;/div&gt;&lt;div&gt;http://developers.gigya.com/display/GD/User+Identities+Reports#UserIdentitiesReports-NewUsersbyProvider (voir dropdown  Context ID )&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;</description>
+    <position type="integer">3</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-18T15:47:09+02:00</created-at>
+    <updated-at type="dateTime">2017-05-22T14:05:17+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12946137</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438608</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ADBLOCK_GESTION_MESSAGE_ERREUR : Message d erreur si un plugin bloque la popin.</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">2</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-18T15:26:20+02:00</created-at>
+    <updated-at type="dateTime">2017-05-22T14:05:10+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">16029</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>slepareur</name>
+      <initials>SLE</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">12913285</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FRPJADMCON-65 - Date creation compte erronee dans export avis</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">25</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-16T11:36:00+02:00</created-at>
+    <updated-at type="dateTime">2017-06-01T11:29:49+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074558</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_admin_contributif/workitem?id=ADMIN_CONTRIBUTIF_FRONT-894</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>ADMIN_CONTRIBUTIF_FRONT-894</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12857465</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438608</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>Refonte de la GEX du compte utilisateur</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">14</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-11T09:05:53+02:00</created-at>
+    <updated-at type="dateTime">2017-05-11T09:05:53+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2074550</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12790093</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CF_API_TRACABILITE : faire les besoins multi contexte </name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">42</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-05T16:53:28+02:00</created-at>
+    <updated-at type="dateTime">2017-05-05T16:53:58+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246653</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12776857</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_STAT_HISTORIQUE_REQUETEUR</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"&gt;&lt;br&gt;&lt;/p&gt;</description>
+    <position type="integer">32</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-04T17:47:36+02:00</created-at>
+    <updated-at type="dateTime">2017-05-14T18:57:00+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12762231</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438660</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_MAJ_BI_OBSOLETE - Gestion du cycle de vie d un favori</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;div&gt;&lt;b&gt;Stats attendues :&lt;/b&gt;&lt;/div&gt;- Taux de clics sur lien 1&lt;div&gt;&lt;span style="font-size: 12px; font-style: normal; font-weight: normal;"&gt;- Taux de clics sur lien 2&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="font-size: 12px; font-style: normal;"&gt;&lt;b&gt;- Taux de clics sur la croix de suppression&lt;/b&gt;&lt;/span&gt;&lt;span style="font-size: 12px; font-style: normal; font-weight: normal;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;</description>
+    <position type="integer">2</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-03T18:38:43+02:00</created-at>
+    <updated-at type="dateTime">2017-07-31T17:44:09+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-4008</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">265674</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12739447</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CF_CHARTE_VX : Prendre en compte les dev suite a la re-livraison BUC</name>
+    <recurring-schedule nil="true"/>
+    <description></description>
+    <position type="integer">28</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-05-02T12:16:44+02:00</created-at>
+    <updated-at type="dateTime">2017-05-05T16:53:55+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246653</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link></external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12679131</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_STAT_HISTORIQUE : Statistique Historique des Favoris  </name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;p class="MsoListParagraph" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"&gt;&lt;span style="font-family: inherit; font-size: 12px; text-indent: -18pt;"&gt;         Device, Code_origine_creation, Code_origine_suppression, Code_contexte_creation&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</description>
+    <position type="integer">24</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T18:13:19+02:00</created-at>
+    <updated-at type="dateTime">2017-06-01T11:29:53+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">21.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/redirect/project/orchestrateur_utilisateur/workitem?id=UTILISAT_ORCH-1265</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISAT_ORCH-1265</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12678735</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>CF_WEBVIEW_STAT : perte des parametres stats sur redirection et webviews</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;span style="font-size: 14px;"&gt;La correction/evolution consisterait a ajouter aux url de redirection des query params issus de l url d origine pour les stats : query params x, at, p, ver&lt;/span&gt;&lt;br&gt;&lt;br&gt;JIRA : https://jira.pagesjaunes.fr/browse/FRONPJFD-1438&lt;br&gt;</description>
+    <position type="integer">22</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T17:42:45+02:00</created-at>
+    <updated-at type="dateTime">2017-06-08T16:36:35+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">3246653</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_fd/workitem?id=FD_FRONT-8962 </external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>US : FD_FRONT-8962  ou JIRA : FRONPJFD-1438</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12675889</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_GESTION_PRO_SANS_EPJ : Suppression du coeur pour les pros qui n ont pas d EPJ</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;span class="normaltextrun"&gt;&lt;span style="font-size:11.0pt;font-family:&amp;quot;Calibri&amp;quot;,&amp;quot;sans-serif&amp;quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;color:#1F497D;mso-ansi-language:FR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"&gt;Suppression du coeur pour les pros qui n ont pas d EPJ&lt;/span&gt;&lt;/span&gt;&lt;br&gt;</description>
+    <position type="integer">33</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T15:20:38+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:42+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_favoris_bundle/workitem?id=FAV_BUNDLE_FRONT-115</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>FAV_BUNDLE_FRONT-115</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12675711</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ORIGINE_PARCOURS_CREATION_STATS - Mise a dispo de l origine de creation dans fichier stats</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">21</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T15:08:34+02:00</created-at>
+    <updated-at type="dateTime">2017-06-12T16:41:41+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">122380</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/bo_gigya/workitem?id=GIGYA_BO-133</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>GIGYA_BO-133</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Gregory CAILLEY</name>
+      <initials>GCA</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">12674603</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_IMPORT_APP : Suppression de la validation niveau WPU</name>
+    <recurring-schedule nil="true"/>
+    <description>Suppression de la validation niveau OGU a la creation d un favori sur un EPJ obsolete &lt;br&gt;</description>
+    <position type="integer">43</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T14:00:52+02:00</created-at>
+    <updated-at type="dateTime">2017-05-05T16:53:52+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/worc_proprietes_utilisateur/workitem?id=UTIL_PROP_WORC-122</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTIL_PROP_WORC-122</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12671055</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ORIGINE_PARCOURS_CREATION_FRONT - Enregistrement de l origine du parcours de creation de compte</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">16</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-26T10:25:15+02:00</created-at>
+    <updated-at type="dateTime">2017-07-20T14:45:27+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/wiki/Specification/Recapitulatif_US?paramUSId=UTILISATEUR_FRONT-4004&amp;paramFieldsReq=order_01</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISATEUR_FRONT-4004</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12646589</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438660</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>MCEBROWS-122 -  CGU - Page Vie privee</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">1</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-24T17:40:01+02:00</created-at>
+    <updated-at type="dateTime">2017-07-28T11:32:48+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">3.0</size-estimate>
+    <card-type-id type="integer">2074562</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_pds/workitem?id=PDS_FRONT-1592</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">265674</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12643031</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_DELETE_DL : Suppression depuis les designation de ligne</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">40</position>
+    <priority type="integer">-1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-24T14:48:34+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:38+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">5.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link> https://polarion.services.local/polarion/#/project/front_pj_fd/workitem?id=front_favoris_bundle/FAV_BUNDLE_FRONT-112</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>FAV_BUNDLE_FRONT-112</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">265674</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12601069</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438656</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>RAISON_REFUS_SA - Nouvelle raison de refus pour les SA avis	</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">4</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-20T08:23:58+02:00</created-at>
+    <updated-at type="dateTime">2017-04-24T14:20:21+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/ext_part_moderation/wiki/Specification/Recapitulatif%20US?paramUSId=PART_MODERATION_EXT-580&amp;paramFieldsReq=order_01</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>PART_MODERATION_EXT-580</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12572493</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ORIGINE_CREATION_PARCOURS_BACK : mettre en place une enumeration sur le parcours a l origine de la creation du compte</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;p class="MsoNormal"&gt;&lt;span style="font-family: inherit; font-size: 12px; color: rgb(31, 73, 125);"&gt;Nous allons rajouter sur lespath de l OGU en &lt;b&gt;POST&lt;/b&gt; et &lt;b&gt;PUT&lt;/b&gt; le champ : &lt;/span&gt;&lt;span style="font-size: 10pt; font-family: Consolas;"&gt;parcours_origine_creation&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="color:#1F497D"&gt; &lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;span style="color:#1F497D"&gt;Les valeurs acceptees sont &lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         SPONTANE&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         SANTE&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         FAVORIS&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         LISTE_FAVORIS&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         AVIS&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         SA_AVIS&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         SA_DDR_AVIS&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         PHOTO&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoListParagraph" style="text-indent:-18.0pt"&gt;&lt;span style="color:#1F497D"&gt;-         SA_PHOTO&lt;/span&gt;&lt;/p&gt;</description>
+    <position type="integer">41</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-18T13:47:00+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:45:33+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">122380</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">8.0</size-estimate>
+    <card-type-id type="integer">2504486</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/orchestrateur_utilisateur/workitem?id=UTILISAT_ORCH-1269</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISAT_ORCH-1269</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Gregory CAILLEY</name>
+      <initials>GCA</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">12538649</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_LISTE_07 - BACK : API + OGU</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">26</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-14T10:43:16+02:00</created-at>
+    <updated-at type="dateTime">2017-05-18T10:20:33+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">21.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/orchestrateur_utilisateur/workitem?id=UTILISAT_ORCH-1264</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISAT_ORCH-1264</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12527537</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV0_ORIGINE_CREATION_ENUM_APP - Ajouter les enum des APP pour l origine de creation d un FAV</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">46</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-13T10:49:42+02:00</created-at>
+    <updated-at type="dateTime">2017-05-04T12:05:55+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer">265674</assigned-user-id>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">3.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_fd/workitem?id=FD_FRONT-8904</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id></external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason nil="true"/>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+    <assigned-user type="User">
+      <name>Remi Longuechaud</name>
+      <initials>RL</initials>
+    </assigned-user>
+  </task>
+  <task>
+    <id type="integer">12427505</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438656</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>FAV1_LISTE-08 :Visualiser le BI favorise de mon pro mis a jour</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">2</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-05T10:42:51+02:00</created-at>
+    <updated-at type="dateTime">2017-07-25T14:18:11+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">13.0</size-estimate>
+    <card-type-id type="integer">3246655</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_utilisateur/workitem?id=UTILISATEUR_FRONT-3868</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>UTILISATEUR_FRONT-3868</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">122380</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12399257</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438656</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ADM_DEPLAC_AVIS_PART - Deplacement des avis d un partenaire</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">3</position>
+    <priority type="integer">1</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-03T16:59:49+02:00</created-at>
+    <updated-at type="dateTime">2017-07-25T14:18:39+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">0.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_admin_contributif/wiki/Specification/Recapitulatif_US?paramUSId=ADMIN_CONTRIBUTIF_FRONT-891&amp;paramFieldsReq=order_01</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>ADMIN_CONTRIBUTIF_FRONT-891</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason>Finalisation du cadrage</block-reason>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
+  <task>
+    <id type="integer">12399249</id>
+    <board-id type="integer">185986</board-id>
+    <workflow-stage-id type="integer">1438672</workflow-stage-id>
+    <version type="integer">1</version>
+    <deleted-at type="dateTime" nil="true"/>
+    <name>ADM_SUPP_AVIS_PART - Suppression des avis d un partenaire</name>
+    <recurring-schedule nil="true"/>
+    <description>&lt;br&gt;</description>
+    <position type="integer">35</position>
+    <priority type="integer">0</priority>
+    <tags></tags>
+    <created-at type="dateTime">2017-04-03T16:59:20+02:00</created-at>
+    <updated-at type="dateTime">2017-07-12T16:46:23+02:00</updated-at>
+    <archived-at type="dateTime" nil="true"/>
+    <assigned-user-id type="integer" nil="true"/>
+    <comments-count type="integer">0</comments-count>
+    <size-estimate type="decimal">21.0</size-estimate>
+    <card-type-id type="integer">2504484</card-type-id>
+    <subtasks-count type="integer">0</subtasks-count>
+    <subtasks-completed-count type="integer">0</subtasks-completed-count>
+    <attachments-count type="integer">0</attachments-count>
+    <custom-field-1>COMPTE</custom-field-1>
+    <custom-field-2 nil="true"/>
+    <custom-field-3 nil="true"/>
+    <custom-field-4 nil="true"/>
+    <custom-field-5 nil="true"/>
+    <custom-field-6 nil="true"/>
+    <custom-field-7 nil="true"/>
+    <custom-field-8 nil="true"/>
+    <custom-field-9 nil="true"/>
+    <custom-field-10 nil="true"/>
+    <custom-field-11 nil="true"/>
+    <custom-field-12 nil="true"/>
+    <external-link>https://polarion.services.local/polarion/#/project/front_pj_admin_contributif/wiki/Specification/Recapitulatif_US?paramUSId=ADMIN_CONTRIBUTIF_FRONT-859&amp;paramFieldsReq=order_01</external-link>
+    <due-date type="date" nil="true"/>
+    <postponed-until type="dateTime" nil="true"/>
+    <swimlane-id type="integer">431182</swimlane-id>
+    <external-id>ADMIN_CONTRIBUTIF_FRONT-859</external-id>
+    <subtask-search-tags nil="true"/>
+    <block-reason></block-reason>
+    <created-by-id type="integer">16029</created-by-id>
+    <time-estimate type="integer" nil="true"/>
+    <timers-total type="integer" nil="true"/>
+    <timers-total-updated-at type="dateTime" nil="true"/>
+    <timers-active-count type="integer">0</timers-active-count>
+    <timers-listed-count type="integer">0</timers-listed-count>
+    <timers-postponed-count type="integer">0</timers-postponed-count>
+    <linked-tasks nil="true"/>
+    <linked-tasks-status nil="true"/>
+    <linked-from nil="true"/>
+  </task>
