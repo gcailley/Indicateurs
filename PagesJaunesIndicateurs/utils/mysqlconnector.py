@@ -81,3 +81,8 @@ class MySQLConnector(object):
         cur = MySQLConnector._connection.cursor();
         cur.execute(sql);
         return cur.fetchmany();
+
+    def queryallrows(self, sql):
+        cur = MySQLConnector._connection.cursor();
+        cur.execute(sql);
+        return cur.fetchall();

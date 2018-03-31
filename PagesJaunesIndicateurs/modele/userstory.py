@@ -1,4 +1,5 @@
 from logger import Logger
+import datetime, dateutil.parser
 
 class ModeleUserStory(object):
 
@@ -35,17 +36,48 @@ class ModeleUserStory(object):
 
 
 
-    def __init__(self, id):
-        self.id = id        
+    def __init__(self):
+
+        now = datetime.datetime.now()
+        self.id = None
+        self.date_murissement_debut= None
+        self.date_murissement_fin= None
+        self.date_cadrage_debut= None
+        self.date_cadrage_fin= None
+        self.date_dev_debut= None
+        self.date_dev_fin= None
+        self.date_chaine_fin= None
+        self.date_hd_fin= None
+        self.date_prod_off_fin= None
+        self.date_prod_on_fin= None
+        self.created = now
+        self.updated = now
+
+    def getFormatedDate(self, date):
+        if (type(date) is datetime.datetime):
+            return date.strftime('%Y/%m/%d')
+        else:
+            if (date != None):
+                d = dateutil.parser.parse(date)
+                return d.strftime('%Y/%m/%d')
+            else:
+                return ''
+
+
+    def setId(self, value):
+        self.id = value
 
     def setName(self, value):
         self.name = value
 
-    def setThemeId(self, value):
-        self.theme_id = value
-
     def setTheme(self, value):
         self.theme = value
+
+    def setIdTask(self, value):
+        self.id_task = value
+
+    def getIdTask(self):
+        return self.id_task
 
     def setDescription (self, value):
         self.description = value
@@ -93,10 +125,46 @@ class ModeleUserStory(object):
         self.date_hd_fin = value
 
     def setIfNotNullDateProdOffDebut (self, value):
-        self.date_ProdOff_debut = value
+        self.date_prod_off_debut = value
 
     def setIfNotNullDateProdOnFin (self, value):
-        self.date_ProdOn_fin = value
+        self.date_prod_on_fin = value
+
+    def getDateMurissementDebut(self):
+        return self.getFormatedDate(self.date_murissement_debut)
+
+    def getDateMurissementFin(self):
+        return self.getFormatedDate(self.date_murissement_fin)
+
+    def getDateCadrageDebut(self):
+        return self.getFormatedDate(self.date_cadrage_debut)
+
+    def getDateCadrageFin(self):
+        return self.getFormatedDate(self.date_cadrage_fin)
+
+    def getDateDevDebut(self):
+        return self.getFormatedDate(self.date_dev_debut)
+
+    def getDateDevFin(self):
+        return self.getFormatedDate(self.date_dev_fin)
+
+    def getDateChaineFin(self):
+        return self.getFormatedDate(self.date_chaine_fin)
+
+    def getDateHdFin(self):
+        return self.getFormatedDate(self.date_hd_fin)
+
+    def getDateProdOffFin(self):
+        return self.getFormatedDate(self.date_prod_off_fin)
+
+    def getDateProdOnFin(self):
+        return self.getFormatedDate(self.date_prod_on_fin)
+
+    def getCreated(self):
+        return self.getFormatedDate(self.created)
+
+    def getUpdated(self):
+        return self.getFormatedDate(self.updated)
 
     def setDate(self, date, idEtat):
         if (idEtat == self.ETAT_SUJETS_A_FAIRE or
