@@ -58,10 +58,11 @@ class UserStoryService(object):
         return None
 
     #Methode permettant de mettre à jour les toutes US
-    def userStoryService.updateAllUS()
+    def updateAllUS(self):
         # TODO faire le travail d'update
-        self.log.info('All US are updated.');
+        self.log.info('All US are updated.')
         return None
+
     def saveModeleUserStoryFromModeleKanbanTask(self, modeleKanbanTask):
         self.log.info(str.format('Converting Task [ {} ] into Us',  modeleKanbanTask.getId()))
         modeleUserStory = self.builderUS.convertModeleKanbanTaskToModeleUserStory(modeleKanbanTask)
